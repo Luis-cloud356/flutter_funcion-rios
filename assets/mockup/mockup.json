@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nome": "Mariana Souza",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG9GwJx_hx5p8caTYLyf5exLahCXCU8M94HQ&s",
+        "cargo": "Atendente",
+        "salario": 1850.50,
+        "dataContratacao": "2022-03-15"
+    },
+     {
+    "id": 2,
+    "nome": "Carlos Pereira",
+    "avatar": "https://static.vecteezy.com/system/resources/thumbnails/048/216/761/small/modern-male-avatar-with-black-hair-and-hoodie-illustration-free-png.png",
+    "cargo": "Lavador",
+    "salario": 2100.00,
+    "dataContratacao": "2021-11-02"
+  },
+  {
+    "id": 3,
+    "nome": "Fernanda Lima",
+    "avatar": "https://oimparcial.com.br/app/uploads/2020/10/Screen-Shot-2020-05-19-at-7.17.13-AM-1024x788.jpg",
+    "cargo": "Passadeira",
+    "salario": 1950.75,
+    "dataContratacao": "2023-01-20"
+  },
+  {
+    "id": 4,
+    "nome": "João Batista",
+    "avatar": "https://png.pngtree.com/png-clipart/20230930/original/pngtree-man-avatar-isolated-png-image_13022161.png",
+    "cargo": "Gerente",
+    "salario": 3500.00,
+    "dataContratacao": "2020-08-10"
+  },
+  {
+    "id": 5,
+    "nome": "Aline Rocha",
+    "avatar": "https://png.pngtree.com/png-clipart/20250617/original/pngtree-avatar-female-2-png-image_21200798.png",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1700.00,
+    "dataContratacao": "2024-02-05"
+  },
+  {
+    "id": 6,
+    "nome": "Ricardo Alves",
+    "avatar": "https://png.pngtree.com/png-clipart/20230508/original/pngtree-3d-male-avatar-png-image_9149395.png",
+    "cargo": "Motorista",
+    "salario": 2200.30,
+    "dataContratacao": "2022-07-18"
+  },
+  {
+    "id": 7,
+    "nome": "Patrícia Gomes",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjtRGTcDN7Xk9JGqpkdE2GcRVHOl7LEZmm3g&s",
+    "cargo": "Atendente",
+    "salario": 1820.00,
+    "dataContratacao": "2023-06-12"
+  },
+  {
+    "id": 8,
+    "nome": "Eduardo Martins",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuIEnMsdy3lG4OqLpGc9hZ1_bedENZbIZjPg&s",
+    "cargo": "Técnico de Manutenção",
+    "salario": 2800.90,
+    "dataContratacao": "2021-04-25"
+  },
+  {
+    "id": 9,
+    "nome": "Juliana Freitas",
+    "avatar": "https://png.pngtree.com/png-clipart/20241121/original/pngtree-woman-avatar-png-image_17278177.png",
+    "cargo": "Passadeira",
+    "salario": 2000.00,
+    "dataContratacao": "2022-09-30"
+  },
+  {
+    "id": 10,
+    "nome": "Lucas Ribeiro",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/4113/4113045.png",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1750.60,
+    "dataContratacao": "2024-05-14"
+  }
+]
